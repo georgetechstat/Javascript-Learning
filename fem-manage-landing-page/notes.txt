@@ -1,0 +1,4 @@
+Starting the project
+1. npm create vite@latest
+2. Go to the created folder and run npm install, to install default dependencies
+3. To run the project locally: npm run dev
